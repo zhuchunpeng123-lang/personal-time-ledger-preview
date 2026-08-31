@@ -1,0 +1,1 @@
+{"name":"时间账本","short_name":"时间账本","description":"低摩擦记录真实时间的个人时间账本","start_url":"/personal-time-ledger-preview/","display":"standalone","background_color":"#f5f4ef","theme_color":"#315c4c","lang":"en","scope":"/personal-time-ledger-preview/","icons":[{"src":"/personal-time-ledger-preview/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
